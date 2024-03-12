@@ -1,0 +1,14 @@
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\ExInterfacesAndDepInjection01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\ExInterfacesAndDepInjection01.AssemblyInfoInputs.cache
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\ExInterfacesAndDepInjection01.AssemblyInfo.cs
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\ExInterfacesAndDepInjection01.csproj.CoreCompileInputs.cache
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\bin\Debug\net8.0\ExInterfacesAndDepInjection01.exe
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\bin\Debug\net8.0\ExInterfacesAndDepInjection01.deps.json
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\bin\Debug\net8.0\ExInterfacesAndDepInjection01.runtimeconfig.json
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\bin\Debug\net8.0\ExInterfacesAndDepInjection01.dll
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\bin\Debug\net8.0\ExInterfacesAndDepInjection01.pdb
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\ExInterfacesAndDepInjection01.dll
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\refint\ExInterfacesAndDepInjection01.dll
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\ExInterfacesAndDepInjection01.pdb
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\ExInterfacesAndDepInjection01.genruntimeconfig.cache
+C:\Workspace\Curso Udemy\Projetos Intermediários\ExInterfacesAndDepInjection01\ExInterfacesAndDepInjection01\obj\Debug\net8.0\ref\ExInterfacesAndDepInjection01.dll
